@@ -40,6 +40,7 @@ You, the streamer only, can also use !adbreak to make it automatically run 3 min
 [Obviously Godot itself](https://godotengine.org/)  
 [Twitcher](https://github.com/kanimaru/twitcher)  
 [This Godot extension for mouse passthrough on Windows](https://github.com/hubacekjakub/Godot-WinMousePassthrough)  
+[Sound effects by Lufus](https://iamlufus.itch.io/)
 
 # Donate?  
 If you feel like it, pay me. You don't have to. Or if you want me to add a feature either for general use, or yourself specifically, lemme know what the idea is, and if I think I can do it, you can pay me to do it.  
