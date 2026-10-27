@@ -44,4 +44,7 @@ You, the streamer only, can also use !adbreak to make it automatically run 3 min
 
 # Donate?  
 If you feel like it, pay me. You don't have to. Or if you want me to add a feature either for general use, or yourself specifically, lemme know what the idea is, and if I think I can do it, you can pay me to do it.  
+
+# [Follow me on Twitch](https://twitch.tv/NAM_137)  
+
 https://ko-fi.com/nam_137
