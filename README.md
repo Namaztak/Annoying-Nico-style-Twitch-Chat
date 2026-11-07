@@ -3,11 +3,13 @@ Scrolls twitch chat across your entire monitor like nicovideo comments, always o
 
 # Visual demos if you don't feel like reading
 
-General explantion
+General explantion: 
 https://youtube.com/shorts/ZhQ4CmZlnFg
 
-Showing off the emote spam, with phone cam to explain how blinding it can be (older, worse version)
+Showing off the emote spam, with phone cam to explain how blinding it can be (older, worse version): 
 https://www.tiktok.com/@namaztak/video/7595529247767170359
+
+Demo of what happens to your screen during uses of !adbreak: https://youtube.com/shorts/l5tZdKWh0bU
 
 # Usage
 * Run the executable, let it authorize on your Twitch account on its first run. Every subsequent run will still open your browser to give the overlay its authorization token.  
